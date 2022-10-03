@@ -1,0 +1,10 @@
+def format_address(address_string):
+  # Declare variables
+  adress = address_string.split()
+
+  for direccion in adress:
+       if direccion is 
+
+
+
+
